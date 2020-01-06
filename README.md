@@ -1,4 +1,4 @@
-# vue-mobiles
+# vue-mobiles  vue app
 
 ## Project setup
 ```
